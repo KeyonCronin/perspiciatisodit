@@ -1,0 +1,71 @@
+{
+  "name": "perspiciatisodit",
+  "version": "1.9.0",
+  "description": "Camunda Platform 7 and 8 behaviors for bpmn-js",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KeyonCronin/perspiciatisodit.git"
+  },
+  "keywords": [
+    "adipisci",
+    "architecto",
+    "camunda",
+    "zeebe",
+    "modeling",
+    "bpmn-js"
+  ],
+  "author": "ChrisMills",
+  "license": "MIT",
+  "dependencies": {
+    "etunde": "^1.0.0",
+    "ids": "^1.0.0",
+    "inciduntqui": "^1.0.0",
+    "min-dash": "^3.8.1",
+    "utnon": "^1.0.0",
+    "velsoluta": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.13",
+    "babel-loader": "^8.2.5",
+    "babel-plugin-istanbul": "^6.1.1",
+    "bpmn-js": "^10.0.0",
+    "camunda-bpmn-moddle": "^7.0.0",
+    "chai": "^4.2.0",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.22.0",
+    "eslint-plugin-bpmn-io": "^0.14.1",
+    "execa": "^5.0.0",
+    "karma": "^6.4.0",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-coverage": "^2.2.0",
+    "karma-debug-launcher": "^0.0.5",
+    "karma-env-preprocessor": "^0.1.1",
+    "karma-firefox-launcher": "^2.1.2",
+    "karma-mocha": "^2.0.1",
+    "karma-safari-launcher": "^1.0.0",
+    "karma-sinon-chai": "^2.0.2",
+    "karma-webpack": "^5.0.0",
+    "min-dom": "^3.2.1",
+    "mocha": "^9.1.3",
+    "mocha-test-container-support": "^0.2.0",
+    "npm-run-all": "^4.1.5",
+    "puppeteer": "^18.0.5",
+    "sinon": "^9.2.4",
+    "sinon-chai": "^3.5.0",
+    "webpack": "^5.74.0",
+    "zeebe-bpmn-moddle": "^0.15.0"
+  },
+  "peerDependencies": {
+    "bpmn-js": "9.x || 10.x",
+    "camunda-bpmn-moddle": "7.x",
+    "zeebe-bpmn-moddle": "0.15.x"
+  },
+  "files": [
+    "lib"
+  ],
+  "bugs": {
+    "url": "https://github.com/KeyonCronin/perspiciatisodit.git/issues"
+  }
+}
